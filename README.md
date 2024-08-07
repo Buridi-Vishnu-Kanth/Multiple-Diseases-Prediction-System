@@ -12,8 +12,7 @@ This project provides a streamlit web application for predicting multiple diseas
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -33,21 +32,15 @@ The Multiple Disease Prediction web application offers the following features:
 
 To use this project locally, follow these steps:
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/shaadclt/Multiple-Disease-Prediction-System.git
-```
-
-2. Install the required dependencies by running:
+1. Install the required dependencies by running:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Download the pre-trained machine learning models for diabetes, Parkinson's disease, and heart disease. Make sure to place them in the appropriate directories within the project structure.
+2. Download the pre-trained machine learning models for diabetes, Parkinson's disease, and heart disease. Make sure to place them in the appropriate directories within the project structure.
 
-4. Update the necessary configurations and file paths in the project files.
+3. Update the necessary configurations and file paths in the project files.
 
 ## Usage
 
@@ -71,10 +64,4 @@ streamlit run multiplediseaseprediction.py
 
 Feel free to customize the web application's appearance, add more disease prediction models, or integrate additional features based on your specific requirements.
 
-## Contributing
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the project's GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to modify and use the code for both personal and commercial purposes.
